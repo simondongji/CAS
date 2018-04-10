@@ -30,12 +30,6 @@
 14. Shiro代理认证
 15. OAuth协议对接
 
-
-## Tutorial: [![Csdn Blog Tutorial](https://img.shields.io/badge/csdn%20blog-tutorial-orange.svg)](http://blog.csdn.net/u010475041/article/category/7156505)
-
-* [Blog](http://blog.csdn.net/u010475041/article/category/7156505)
-* [Support](https://github.com/laomazi2006/sso/wiki)
-
 域名：passport.sso.com
 
 用户：
@@ -57,14 +51,3 @@
 |sso-management|service管理|8081|×|cas-management|3|
 |sso-cas-client-demo|cas-client-demo|8080|×|/sample|4|
 |sso-client-shiro-demo|shiro-client-demo|8083|×|/|5|
-
-## 代码下载 [![码云](https://img.shields.io/badge/download-码云-yellowgreen.svg)](https://git.oschina.net/Kawhi-Carl/sso) [![Github](https://img.shields.io/badge/download-GitHub-brightgreen.svg)](https://github.com/laomazi2006/sso)
-
-1. 每一个阶段都会封版打一个tag，需要的进行[下载](https://github.com/laomazi2006/sso/releases)
-2. 原始构建文件存在于original-files目录下
-
-## Development [![Dependency Status](https://www.versioneye.com/user/projects/59b6afd60fb24f004e1a656b/badge.svg?style=flat-square)](https://www.versioneye.com/user/projects/59b6afd60fb24f004e1a656b) <!-- [![Dependency Status](https://dependencyci.com/github/laomazi2006/sso/badge)](https://dependencyci.com/github/laomazi2006/sso)  -->[![codebeat badge](https://codebeat.co/badges/4b430ffd-0cb8-4310-b081-955a66e65c76)](https://codebeat.co/projects/github-com-laomazi2006-sso-master)
-
-* jdk8
-* maven3
-
